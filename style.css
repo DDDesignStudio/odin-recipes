@@ -1,0 +1,11 @@
+#heading {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.buttonstyle {
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
