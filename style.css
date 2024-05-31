@@ -4,8 +4,25 @@
     text-align: center;
 }
 
-.buttonstyle {
-    text-align: center;
+*a {
     color: white;
-    background-color: blue;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: auto;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.box {
+    border: 2px solid rgb(1, 139, 139);
+    background-color: rgba(0, 235, 235, 0.795);
+    border-radius: 8px;
+    max-width: 275px;
+    max-height: 400px;
+    flex-basis: 100%;
+    min-height: 250px;
 }
