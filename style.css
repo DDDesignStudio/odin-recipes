@@ -4,7 +4,8 @@
     text-align: center;
 }
 
-*a {
+.container a {
+    text-decoration: none;
     color: white;
 }
 
